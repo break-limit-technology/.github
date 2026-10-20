@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Break Limit Technology" width="100%" />
+<img src="./banner-animated.svg" alt="Break Limit Technology" width="100%" />
 
 ### Diseñamos software que impulsa negocios ambiciosos.
 *We build software that powers ambitious businesses.*
